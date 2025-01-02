@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "innate-portal-391816",
+  "private_key_id": "bdfe66da1b9e32943bd68fcda3a9be368cfe8a87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCltU5N4LAOo378\nsuOm28fkn9rU4LojKaMnTLnDeE5kM5QRYcs329tIXUgCuVevnibb83CleZatjH0Y\nhqZFeNFd8wVpgSTPQdEhEXqfN6vXm91N3nLFv3gd126l153PQxpZeutohjsXyu36\nUbUPWz4U8fJmie0OqDF8PveWmWGoyDGUl6rtv8mfVfTz+AQQoEMjenUEVdlKLHSe\naoczpsD+6RN/GOSpK2eSWM2P8WV6rcVW4ic3NxeipP9mc5YR+bjzSu5nDn2KaIV0\n/lwg+hwHizFU6gEAJN+Xso5QR4qkMMP6eVFxw8HCWiqCk1bBozi+tQj5rGGvmuOi\nOcXmBHRFAgMBAAECggEADi9I9q2nJHmmYydFCYGCyPVOHC7ogB4OU0zkEfF4dGdd\n42cFqFBvovApO+J1uRjGpsld+SxBU7XU94Z/MS84bNxiuDdP2VX++t+uKXbwhNJY\nzVOfa4IKXDOWyyd74MQTu1kkUZw77rt2R5k68IeU9uIHJ/PikQCgy8vwEbore/ET\nxtpXcO9IHXT8Gmh1HK+vXxi80b0sPa1P2g28MpmwqsmGpkOrt6fJLP0T9BmUf8dm\ntwpXznQUEDuchz5c6/oKr8wGNFzpvLh+IbJOA5oePEZbtZfMMtrbf5At5n9SIQ4d\n/3ngquPbt09Sexbuojtj8a5sWpL7B001M2ZqY9qHuQKBgQDb+Or8xclu7dlInr/U\nJhC0n7F8Iso+7jxqo/TGzEkymFCJQHyK1wl0/B1CGqmSwa4E0g5ftRHf4pZeyLO5\nypKPcVSDCkheJCTGNMbjjSTd0ig8g3G70LlhMGE2bjj3Aw1wm/nzdKEoRWm/O1Jb\n3VNRlFEa7Q8EUR65WGi1cveSRwKBgQDA2S6hDACHMnyCvlT1Lib2tFVXryrFZdCS\n59xSmJAPPvpPqWB7QTm64SZrXsJdkR7Z3tuuSGEn2xYq75LzQykpmzXwrwtjgBUS\nSz1qnjsxr+3dAAmqddQoxvqS/gUOdK4vEGE+MX9jlomSgPXhjuLsgFiFI7w7ClPN\niOYQnqIfEwKBgHXzCeWSFImTpc/Ht6qE4q5Hdr7OVM3bpq+zzHuQbKthesWtu1oj\nJeIBkZqxez3C9pGFJMny6Gu5LtISIjS8R0v9A8jkCZvZG5LgF8lKFHuQxZx1CtYf\nfFd9vpKWFZt1mo5IRIVjg0p5tdMhdu7lRVjYA4lBlazF5oiRvEuXIuLfAoGATQKt\nnzxGvbaIiEFvddVvU9dhuTlHMDrfVrrmfclUxfHVTZiK4c2DO0CL8haOMYUxN7nK\nKkfXHG5d5Nl06lXoiyfjG3EbcCmGwJ5xMTFs3AOwTi+krICPL5V+HNL5u/MWV88H\ntilYALHt0CZVijRgJCeAsfI6Sa1vF8XScdKXVScCgYAEMz+DHog3wH4EEVzpkYoh\nWSow/EDMYVDeCaFYdcCGZ/1FgtVYtu0LCKs1Ud7DeDqcrgzqYTJB2Obw6xRyDAIx\nM6BaHTTelqYX2jbF5N/9KwMLgsRi0DtvQ2cFiKQstYQVcKWP7Lj/HDgltDKsTu9Z\nvVkQ5WkZLeHMkSU6LmOwrw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@innate-portal-391816.iam.gserviceaccount.com",
+  "client_id": "106621166805638826014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40innate-portal-391816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

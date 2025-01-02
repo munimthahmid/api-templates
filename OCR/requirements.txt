@@ -1,0 +1,4 @@
+google-cloud-vision
+google-cloud-documentai
+pdfplumber
+tabulate

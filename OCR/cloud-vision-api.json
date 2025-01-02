@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "innate-portal-391816",
+  "private_key_id": "397fe7f28322ff13c2d6bacd0ac0577c43c139f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNcRh4RHzIJi52\nnm26ubTaTmGV8E0qklK1wzMY2POlg44sK7WwJT7G5nTkRgfG8KD2YTrZgSWXBNYT\nBPfABd4y2fzsJAj55QEkfCDVJJMsbgrM/P+ZpWUpymUZ1uEb/Jb6VsAWR/uOW1A2\n+mQYNh9N2uIVa/XCrvUcyCF+lHksi+by8bkXh16isZxCLGfHo3wsClqVi24eOmaV\nLpGOz0Gybuodt7TuqyoQRtGOhBfH/v/8NngQ6qbbt/g0qIyTtHtWaU4NjADjFHec\neEMT0iFgVBKf0EJ09CWmYuf6uBe2OdZiHI1bz4bN5+WCd0xs1oHSAlso8jInMvne\ncmuXS1GhAgMBAAECgf8Xbs71T0DsYDtS5fJq85B6Itz+o51c11PLAUWfj+w6jmB1\n3IZ2Xckxs34IJSfxIrRsmRDqJJ2+nAHO9luyWCwzOkOfEhbA0JFQyz4mqziEpaIv\nWRKbQKivtTMGJeK6ga623y489fjuqkh7/OA6r4tI765zj9zevkk2/zZsbOllXltJ\nE/daP+zXMP6P+IqpbzKs4822q1chGmFlGigo3Vn6wlATJnkjl0Un2XKJzzzpaPQa\n1/pBNMKBtHs0acAWZa9PkOyEVs2R2HEv8PIBclVWBgB7+/nUFeGPyy8GEBaiE0SO\nZ+ympOd+YVOlmlleG97ACLmv86eNw94xHuxpG4ECgYEA+LZKNGXfWVIlKOb1ltaz\nPQ10qCpu0tFOK5WE1n+WUd9OAZsHROZR7qsaz+ooqdTmSuWj8xNkqgN68DxE4X+z\n9Kp3CqPMbiEtjdaQLHARHanolPLz7wxlsrb3H6//Xj6H7PY/gIIjTaXx+r9c97p5\nadQylgvsrhe5MxiWgLWxNokCgYEA03Y22Jc3HtMIoxqkXq6Ew2r3MmN1jwnpg8iV\nHLWb6Gx2BETELl91NNmacfgFuEiYIowTjOUeaJGIiML1mKmAxNkWx/H2oZWkLd6Z\nxnK6iSABE4ZoEmuGeYkRFUpQSikb/G65RjbhN/KeERmjIhsPnLwFduX9QkInLNk+\n2fLdfFkCgYEArvPkLQnAXF+5fhVBivLKsNbHSghXXvsXJveNsyma/0q638xDB8eQ\nuPgp6znHkvgNa4AwnSv2MtYx484xkgK3/xLunFBu3MV/+veFAY1vrNM5pZVl3LF2\n1Il6OxMd6xjHmvv53Zct6FAkcQOuDSFiiPxY/U20Fx7fCz9vl2i4GSkCgYEAhoYB\nxjAMpNNj/z8HqiQj2Z3GvIuBUgngQDHuimEOWgIF4hlNJKMdkQ2Nr0s1eFLWVcP+\n+/cWLTfIQBim3QOYI6JnV7OaTpk/5N5jvVdnS6zMgntS4cT9u3tzHrQz97nHUAOw\nYfavuEPkQsSofx3wBKmoYEdXojsraOCbl1Nli6ECgYEA61dJD6zPb5zFE+sWiz4X\nmepg3d92GFHWWfTgTlfQjUqwC3FYAaEtfurqRzpKVK3D5X2cen+hy81NJK/iC9Da\nkKpZGJrS4VNnXzHR2hB9H4iQn8ghRAhFYRQGIWevkG4SCbA0k2Mc/kyO3p5bGtLC\nLmkhmiI/bW3RS3FF809U/54=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-vision-api@innate-portal-391816.iam.gserviceaccount.com",
+  "client_id": "107971192960394699385",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-vision-api%40innate-portal-391816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
