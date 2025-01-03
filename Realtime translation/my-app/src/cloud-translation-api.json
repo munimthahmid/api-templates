@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "innate-portal-391816",
+  "private_key_id": "ebaaabfbd540bca7b41373364d700dee6df4eee8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuoX/tOvalRPtp\n/teRPZkKkFRhS12IyLJOwb7sWiGGZxuEpF75OpvN/dMVxRNbwj6qxWsIg8P4t6EA\n/7yrwfvR9+i7UB5DwuJEbAbMCXprirDzkwV7NXjFKXb4sxadAQUSMfBlft1luUL2\nJjmZ5g8kG1f0vqr5oGw+Cmb5DN7nRbKAfGZyD4YdN2p30lx8seO6fgkk77EL93Fg\n+QmXSWvy0VnlVGTttcHfjzPleW0jjaP67htQ7UVBr5nUP9KcOGRBk2Uhrkjpqx2u\nwujFiBUK6lcsgX1FW8DMhKWrX1aopqCCCU6Qf6x7yDugHoqQzezefOaKJrn5K2rP\n0Xr4yRU5AgMBAAECggEADWz4J1ZtqPYdOCByFUX9kpzXB+Xh6oa3gquNkKE7S5h4\nuqFiddnGKbeWd2l/3AGajMmBuZVbxy7i728546CVyiY7m88EjKQafjUp7pzZ7xOq\nGAfZF4hcYRgXf/ZQykBOUgBJ4Zu3zL7KAZ+dtRHFXzrE79mKzodBWyG0mfgd2PzX\nvnhACHyvN23dGJqwO71lLIvcYAKWEZ29sEeOtuiftK4Q41hmtdJTR5Oi3wczxDWp\n8suEWhsIauDZzeQ5fZTLAXhl9JzbSX+K1JiXx4qwBzOPhuiudC5Hbh997RxRutU7\nUWNq3UZ/Le2QNSFV1uT1RzIsygsjvAV3JVQUj9qriwKBgQDZtMkOmFNcUR6ABeaU\n8xuGnIvKZr4gtQFwh8aJyan1lZgbvoj1KmFXpyqTA8nbtiEb9UH2r5JWVrkwZL7t\nDaPRSWf8VnCk3jWU1XN2My8mz+AdIk9mMMC22svPW7sqF6U5OFJcC9Oq1FDaguCG\nUvnGmMHefZYGGLf5LDOLBoxekwKBgQDNWQ0FP7J5TqV6G8Kh8U6TSDenY+ILSWEX\nvJrV2X611ZNmRQLdui6vLDqJOMSwhuH3wLOHPm+2f8sQDPVbPWyiTN9nN+EmBV7o\ncERgp5zOvB14vUk3ElUyURgTYMbb81kKesixMZtK7JrPxBIYC5bQhlYZvq3TzUkw\nGzWU5naQgwKBgQCbnsZl328fO4FA5HbqHEmd1MN8YCsieCDaTsQV9IjAWznLA00l\nazEAFiexxXCC1NMgCBYp/2DsxLtGI43zJ9/lF8L0Ntn4kDre9CG/6WCYLto2GTOG\nie0ICKjNxfWpZhOeLmt5Dp80quZM/GcAvcl8M+/JWh5mpz7DJ9yEUZ7/bwKBgDNO\nCnjDP14bjjCB+xDm71DQ/EawJ+vV+5Iopy7C1mur3tXwbBTlzYAqtr1OF6ZbLN3v\noWsq6FJaf2uVMUAIirnKJw7s4S3Ura+5TPwxJHZqfZqLAF3oEK0voapFxalylU6O\n+tF6qWgA0XUTccncK2QSDDUGdPu0EJMaWTrIkdrtAoGAXzIpKnQgEKYhfaS1OXtw\nCwoed4dJ0E+8eamneYVlNLF1y+tT+JcaolmN4exnTMss0cDnwvqSjLpH0NuHMs1x\nYXCx2a7AOIELB/J9kSYoCtzkmSWxEYO5OKv0JxgftN2qdjXG2NFOSSc1sCFrGEx+\nCfbkuUVhrb6SBlpiZEPFjZk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-translation-api@innate-portal-391816.iam.gserviceaccount.com",
+  "client_id": "101076157054932337152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-translation-api%40innate-portal-391816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
